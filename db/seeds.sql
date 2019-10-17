@@ -1,3 +1,3 @@
-INSERT INTO burgers (burger_name) VALUES ('Monterrey Melt');
-INSERT INTO burgers (burger_name) VALUES ('Bobbi');
-INSERT INTO burgers (burger_name, sleepy) VALUES ('Sylvester', true);
+INSERT INTO burgers (burger_name, devoured) VALUES ('Monterrey Melt', false);
+INSERT INTO burgers (burger_name, devoured) VALUES ('Double with Cheese', true);
+INSERT INTO burgers (burger_name, devoured) VALUES ('Patty Melt', true);
